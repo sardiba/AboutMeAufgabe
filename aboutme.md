@@ -17,11 +17,6 @@ Mein Name ist Sarah Diba Anissa. Ich bin in Jakarta, Indonesien geboren und in B
 ![Cat_March_2010-1a](https://user-images.githubusercontent.com/90189347/132325771-70ae6da3-e536-4bce-8c57-6a4b5be124ea.jpg)
 **Sie heisst Goldie**
 
-## Do's and Don'ts
--[x] talk to me in english
--[x] talk to me in german
--[ ] talk to me in chinese
-
 ## Meine Instagram-Seite
 [instagram link](https://www.instagram.com/sardibaa/?hl=de)
 > Mein Motto
